@@ -1,2 +1,2 @@
 # Time-to-freedom
-Calcilates difference between two dates
+Calculates difference between two dates
