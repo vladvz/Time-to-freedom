@@ -35,7 +35,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>Hourglass_32x32.ico</ApplicationIcon>
+    <ApplicationIcon>Assets\Images\Hourglass_32x32.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -100,10 +100,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Hourglass_32x32.ico" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="Assets\Images\Hourglass_48x48.ico" />
+    <Resource Include="Assets\Images\Hourglass_32x32.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

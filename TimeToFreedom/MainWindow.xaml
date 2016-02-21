@@ -8,7 +8,7 @@
         Width="500"
         Height="350"
         Background="#FFFBF4F4"
-        Icon="Assets/Images/Hourglass_48x48.ico"
+        Icon="Assets/Images/Hourglass_32x32.ico"
         ResizeMode="CanMinimize"
         WindowStartupLocation="CenterScreen"
         mc:Ignorable="d">
